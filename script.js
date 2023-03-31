@@ -6,11 +6,11 @@ const yearInput = document.querySelector("#year");
 // Dane wyswietlane na srodku
 const firstYear = document.querySelector(".first");
 const secondMonth = document.querySelector(".second");
-const thirdDay = document.querySelector(".day");
+const thirdDay = document.querySelector(".third");
 
 const btn = document.querySelector(".btn");
 
-let currentYear = 2023;
+let currentYear = 2022;
 let monthValue = 12;
 let daysValue = 31;
 
