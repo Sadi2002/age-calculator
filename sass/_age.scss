@@ -1,0 +1,17 @@
+.box-age {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.numbers {
+  font-size: 100px;
+  color: $purple;
+}
+
+.text {
+  font-size: 100px;
+  font-family: $fontPopins;
+  font-style: italic;
+  font-weight: 700;
+}

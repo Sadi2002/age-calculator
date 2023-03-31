@@ -16,5 +16,11 @@
     justify-content: flex-start;
     gap: 30px;
     position: relative;
+    margin-bottom: 30px;
+  }
+
+  &__down-side {
+    display: flex;
+    flex-direction: column;
   }
 }
