@@ -6,4 +6,14 @@
   background-color: $white;
   border-radius: 30px 30px 200px 30px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.01);
+  padding: 40px 150px 40px 40px;
+
+  &__top-side {
+    width: 100%;
+    height: 25%;
+    border-bottom: 1px solid $light-grey;
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+  }
 }
