@@ -19,6 +19,9 @@
     border: 1px solid $light-grey;
     padding-left: 20px;
     border-radius: 6px;
+    font-size: 25px;
+    font-weight: bold;
+    width: 150px;
   }
   & input:focus {
     border-color: $purple;

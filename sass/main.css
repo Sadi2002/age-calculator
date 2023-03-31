@@ -79,6 +79,9 @@ body {
   border: 1px solid #dbdbdb;
   padding-left: 20px;
   border-radius: 6px;
+  font-size: 25px;
+  font-weight: bold;
+  width: 150px;
 }
 
 .date input:focus {
