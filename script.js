@@ -10,7 +10,7 @@ const thirdDay = document.querySelector(".third");
 
 const btn = document.querySelector(".btn");
 
-let currentYear = 2022;
+let currentYear = 2023;
 let monthValue = 12;
 let daysValue = 31;
 
